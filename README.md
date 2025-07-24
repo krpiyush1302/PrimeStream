@@ -1,3 +1,5 @@
+![PrimeStream Banner](https://github.com/krpiyush1302/PrimeStream/raw/main/assets/banner.png)
+
 # 🎥 PrimeStream
 
 PrimeStream is a full-stack video streaming platform built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to register, log in, browse movies or series, and stream content. It features authentication, admin routes, and a responsive UI.
