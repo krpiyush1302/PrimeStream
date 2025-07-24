@@ -49,9 +49,7 @@ PrimeStream/<br>
 └── README.md # Project README<br>
 
 
-### 1️⃣ Clone the repository
-
-```bash<br>
+1️⃣ Clone the repository <br>
 git clone https://github.com/krpiyush1302/PrimeStream.git <br>
 cd PrimeStream <br>
 
