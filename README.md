@@ -1,4 +1,4 @@
-![PrimeStream Banner](https://github.com/krpiyush1302/PrimeStream/blob/main/uploads/image-1753300890609.jpg)
+![PrimeStream Banner](https://github.com/krpiyush1302/PrimeStream/blob/main/MainImage.jpg)
 
 # 🎥 PrimeStream
 
